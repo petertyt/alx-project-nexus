@@ -52,3 +52,83 @@ This project encourages strong collaboration between:
 - **Backend learners** for API integration and real-time data handling
 
 > 💬 Join the conversation in the Discord `#ProDevProjectNexus` channel
+
+
+
+# 🎬 Movie Recommendation App – Project Nexus (ALX ProDev FE)
+
+## 📌 Overview
+The Movie Recommendation App is a user-focused application built as part of the ALX ProDev Frontend Engineering capstone, **Project Nexus**. It allows users to explore trending movies and receive personalized recommendations, demonstrating a blend of real-world frontend development skills, performance optimization, and UI/UX design principles.
+
+## 🎯 Project Goals
+- **Dynamic Routing:** Use Next.js to create detailed pages for individual movies.
+- **User Personalization:** Allow users to save favorite movies using local storage or an API.
+- **Interactive Dashboard:** Display trending and recommended movies in an engaging layout.
+
+## 🔑 Key Features
+1. **API Integration**
+   - Fetch trending and recommended movies from a public movie API
+   - Implement proper error handling and loading states during data fetching
+
+2. **Dynamic Routing**
+   - Use Next.js for server-side rendering and dynamic routes for movie detail pages
+   - Ensure optimized navigation and fast loading
+
+3. **Favorites Functionality**
+   - Enable users to save favorite movies locally or via backend API
+   - Display saved movies on a dedicated section of the dashboard
+
+4. **Responsive and Interactive UI**
+   - Design a fully responsive layout for mobile, tablet, and desktop
+   - Use smooth interactions (hover effects, animations) on movie cards
+
+## 🧰 Technologies Used
+- **Next.js / React Native** – For dynamic routing and app structure
+- **TypeScript** – Enforcing type safety and maintainable code
+- **Styled Components** – Building reusable, responsive UI components
+- **Public Movie API** – Data source for movies
+- **Vercel / Netlify** – For project hosting and deployment
+
+## ⚙️ Development Workflow
+
+### Initial Setup
+```bash
+feat: initialize Next.js project with TypeScript  
+feat: integrate movie API for fetching data  
+```
+
+### Feature Development
+```bash
+feat: implement detailed movie pages with dynamic routing  
+feat: add functionality to save favorite movies  
+```
+
+### UI Enhancements
+```bash
+style: design UI using Styled Components  
+```
+
+### Bug Fixes
+```bash
+fix: resolve rendering issues on dynamic pages  
+```
+
+### Documentation
+```bash
+docs: add API setup and usage instructions  
+```
+
+## ✅ Evaluation Criteria
+- **Functionality:** API data fetch, routing, favorites feature
+- **Code Quality:** Clean, modular, and scalable with TypeScript
+- **User Experience:** Smooth, responsive UI with intuitive interactions
+- **Version Control:** Frequent and descriptive commits using Git best practices
+
+## 🧑‍💻 Author
+Peter Quayetey – ALX ProDev FE
+
+---
+
+> 💬 Join the collaboration in Discord: `#ProDevProjectNexus`
+
+> 🚀 Project Duration: July 21 – August 10, 2025
