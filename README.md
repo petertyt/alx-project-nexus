@@ -55,10 +55,10 @@ This project encourages strong collaboration between:
 
 
 
-# 🎬 Movie Recommendation App – Project Nexus (ALX ProDev FE)
+# 🎬 Movie Recommendation App (Web App) – Project Nexus (ALX ProDev FE)
 
 ## 📌 Overview
-The Movie Recommendation App is a user-focused application built as part of the ALX ProDev Frontend Engineering capstone, **Project Nexus**. It allows users to explore trending movies and receive personalized recommendations, demonstrating a blend of real-world frontend development skills, performance optimization, and UI/UX design principles.
+The Movie Recommendation App is a user-focused web application built as part of the ALX ProDev Frontend Engineering capstone, **Project Nexus**. It allows users to explore trending movies and receive personalized recommendations, demonstrating a blend of real-world frontend development skills, performance optimization, and UI/UX design principles.
 
 ## 🎯 Project Goals
 - **Dynamic Routing:** Use Next.js to create detailed pages for individual movies.
@@ -83,7 +83,7 @@ The Movie Recommendation App is a user-focused application built as part of the 
    - Use smooth interactions (hover effects, animations) on movie cards
 
 ## 🧰 Technologies Used
-- **Next.js / React Native** – For dynamic routing and app structure
+- **Next.js (Web App)** – For server-side rendering and routing in a modern web application
 - **TypeScript** – Enforcing type safety and maintainable code
 - **Styled Components** – Building reusable, responsive UI components
 - **Public Movie API** – Data source for movies
